@@ -1,7 +1,6 @@
 """
 Author - bhakti suryawanshi
 Docstring - this file gives information about how to calculate area.
-Date - 18 nov 2022
 """
 
 """
